@@ -2,14 +2,14 @@
 
 ### Hi there.
 
-### I'm Angel, sfirst year student at SoftUni and aspiring software developer!
+### I'm Angel, a first-year student at SoftUni and an aspiring software developer!
 
 
 - 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other people.
 - 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love coding and gaming
-- 💻 I love building cool stuffs
+- 💻 I love building cool stuff
 - 💬 Ask me about anything! I am happy to help
 - 📫 Reach me: borismarkov_@abv.bg
 

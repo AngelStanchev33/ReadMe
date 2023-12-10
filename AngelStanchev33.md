@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love coding and gaming
 - 💻 I love building cool stuff
 - 💬 Ask me about anything! I am happy to help
-- 📫 Reach me: borismarkov_@abv.bg
+- 📫 Reach me: angelstanchev33@gmail.com
 
 
 ### GitHub Stats
